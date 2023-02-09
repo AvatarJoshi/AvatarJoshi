@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AvatarJoshi
 - 👀 I’m interested in data science, data analytics, microbiology, and a lot more!
-- 🌱 I’m currently learning Python, SQL, TensorFlow and much more through the UC Berkeley Data Analytics Bootcamp.
-- 💞️ I’m looking to collaborate on projects with my fellow classmates for the time being. But I am looking forward to branching out in the future. 
+- 🌱 I'm currently working on data projects where I can further refine my analytical skill set using Python and machine learning tools.
+- 💞️ I’m open to collaboration on projects.
 - 📫 I'm going to keep my email private for now.
 
 <!---
